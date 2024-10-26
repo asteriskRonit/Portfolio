@@ -142,7 +142,7 @@ footer {
     align-items: center;
     justify-content: center;
     padding: 100px 50px;
-    background: linear-gradient(to right, #121212, #3e005f);
+    background: #0a0a0a;
     color: #fff;
 }
 
@@ -303,18 +303,6 @@ footer {
 
 
 /* Replace with actual icon */
-
-.icon-laravel::before {
-    content: "🔸";
-}
-
-.icon-tailwind::before {
-    content: "🌪️";
-}
-
-.icon-react::before {
-    content: "⚛️";
-}
 
 
 /* Projects Section */
